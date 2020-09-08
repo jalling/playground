@@ -1,4 +1,5 @@
 # Playground
+John Alling
 
 A place to play with `git`.
 
