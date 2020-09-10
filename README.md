@@ -1,5 +1,5 @@
 # Playground
-AC207, CS249r, AM205, CS182
+John Alling is taking AC207, CS249r, AM205, and CS182
 
 A place to play with `git`.
 
